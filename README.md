@@ -1,16 +1,15 @@
-## Whatever.
+<div align="center">
+  <img src="banner.svg" width="100%">
+</div>
 
-<!--
-**giovaniGhF/giovaniGhF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">SOBRE MIM</h3>
 
-Here are some ideas to get you started:
+<p align="center"> Sou estudante de Análise e Desenvolviemnto de Sistemas na Fatec Taquaritinga. Atualmente, trabalho no almoxarifado da prefeitura da minha cidade. Passo grande parte do meu tempo livre compondo músicas para minha banda de rock metal. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center">HABILIDADES E FERRAMENTAS</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,vscode,visualstudio" width="40%">
+</div>
