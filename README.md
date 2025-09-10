@@ -4,7 +4,7 @@
 
 <h3 align="center">SOBRE MIM</h3>
 
-<p align="center"> Sou estudante de Análise e Desenvolviemnto de Sistemas na Fatec Taquaritinga. Atualmente, trabalho no almoxarifado da prefeitura da minha cidade. Passo grande parte do meu tempo livre compondo músicas para minha banda de rock metal. </p>
+<p align="center"> Sou estudante de Análise e Desenvolviemnto de Sistemas na Fatec Taquaritinga. Atualmente, trabalho no almoxarifado da prefeitura da minha cidade. Passo grande parte do meu tempo livre compondo músicas para minha banda de metal. </p>
 
 <br>
 
@@ -13,3 +13,4 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,vscode,visualstudio" width="40%">
 </div>
+
